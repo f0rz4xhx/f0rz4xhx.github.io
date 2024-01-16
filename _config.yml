@@ -18,9 +18,9 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ForzaxHX # the main title
+title: f0rz4xhx # the main title
 
-tagline: ForzaxHX personal blog # it will display as the sub-title
+tagline: f0rz4xhx personal blog # it will display as the sub-title
 
 description: Este es mi blog personal. Aqui publicare entre otros tecnicas de explotacion de vuulnerabilidades, noticias, PoC, etc.
 
@@ -28,17 +28,17 @@ description: Este es mi blog personal. Aqui publicare entre otros tecnicas de ex
 url: ""
 
 github:
-  username: forzaxhx # change to your github username
+  username: f0rz4xhx # change to your github username
 
 twitter:
-  username: ForzaxHX # change to your twitter username
+  username: f0rz4xhx # change to your twitter username
 
 social:
-  name: ForzaxHX
-  email: forzaxhx@gmail.com # change to your email address
+  name: f0rz4xhx
+  email: f0rz4xhx@gmail.com # change to your email address
   links:
-    - https://twitter.com/ForzaxHX
-    - https://github.com/forzaxhx
+    - https://twitter.com/f0rz4xhx
+    - https://github.com/f0rz4xhx
 #    - https://www.linkedin.com/in/samuel-rg
 
 google_site_verification: # fill in to your verification string
